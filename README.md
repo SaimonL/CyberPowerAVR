@@ -30,6 +30,29 @@ Or install it yourself as:
 
 ## Usage
 
+Run ruby command.
+
+    CyberPowerAVR.to_hash
+
+Output
+
+    {
+        "Model Name"=>"CP 1500C",
+        "Firmware Number"=>"B23",
+        "Rating Voltage"=>"120 V",
+        "Rating Power"=>"900 Watt",
+        "State"=>"Normal",
+        "Power Supply by"=>"Utility Power",
+        "Utility Voltage"=>"121 V",
+        "Output Voltage"=>"121 V",
+        "Battery Capacity"=>"100 %",
+        "Remaining Runtime"=>"",
+        "Load"=>"108 Watt(12 %)",
+        "Line Interaction"=>"None",
+        "Test Result"=>"Unknown",
+        "Last Power Event"=>"None"
+    }
+
 ## Contributing
 
 1. Fork it ( https://github.com/SaimonL/CyberPowerAVR/fork )
