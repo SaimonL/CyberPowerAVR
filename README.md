@@ -6,6 +6,7 @@ Install the CyberPowerAVR "pwrstat" application from
 [CyberPower website](http://www.cyberpowersystems.com/products/management-software/ppl.html).
 
 Set password less sudo access to pwrstat
+
     your_user_name ALL = NOPASSWD: /usr/sbin/pwrstat
 
 Note: your_user_name can be any user that is running the application.
