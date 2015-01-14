@@ -36,22 +36,22 @@ Run ruby command.
 
 Output
 ```
-    {
-        "Model Name"=>"CP 1500C",
-        "Firmware Number"=>"B23",
-        "Rating Voltage"=>"120 V",
-        "Rating Power"=>"900 Watt",
-        "State"=>"Normal",
-        "Power Supply by"=>"Utility Power",
-        "Utility Voltage"=>"121 V",
-        "Output Voltage"=>"121 V",
-        "Battery Capacity"=>"100 %",
-        "Remaining Runtime"=>"",
-        "Load"=>"108 Watt(12 %)",
-        "Line Interaction"=>"None",
-        "Test Result"=>"Unknown",
-        "Last Power Event"=>"None"
-    }
+{
+  "Model Name"=>"CP 1500C",
+  "Firmware Number"=>"B23",
+  "Rating Voltage"=>"120 V",
+  "Rating Power"=>"900 Watt",
+  "State"=>"Normal",
+  "Power Supply by"=>"Utility Power",
+  "Utility Voltage"=>"121 V",
+  "Output Voltage"=>"121 V",
+  "Battery Capacity"=>"100 %",
+  "Remaining Runtime"=>"",
+  "Load"=>"108 Watt(12 %)",
+  "Line Interaction"=>"None",
+  "Test Result"=>"Unknown",
+  "Last Power Event"=>"None"
+}
 ```
 
 ## Contributing
