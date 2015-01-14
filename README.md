@@ -35,6 +35,7 @@ Run ruby command.
     CyberPowerAVR.to_hash
 
 Output
+```
     {
         "Model Name"=>"CP 1500C",
         "Firmware Number"=>"B23",
@@ -51,6 +52,7 @@ Output
         "Test Result"=>"Unknown",
         "Last Power Event"=>"None"
     }
+```
 
 ## Contributing
 
